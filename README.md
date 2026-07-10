@@ -1,16 +1,16 @@
-## Hi there 👋
+<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
 
-<!--
-**vampiretestacc/vampiretestacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="left" style="margin-right: 20px;" />
+<br/>
 
-Here are some ideas to get you started:
+<p>
+     <em><b> isaac . rox </b></em>
+    
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br/>
+
+<p> 
+    18 . he/him . ro/eng 
+</p>
