@@ -11,10 +11,9 @@
    <p align="center"> <b>18</b> . <ins>he/him</ins> . ro/eng </p> 
     <p align="center"> <b>basic DNI</b> + under 15 dni</p> 
     
-  <p align="center"><a href="https://casinogutz.atabook.org/">sign ata (^ ⌄-⌄ ^)</a></p>
+  <p align="center"><a href="https://casinogutz.atabook.org/">sign ata (^ ⌄-⌄ ^)</a> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ </p>
   <br/>
-   <p align="center"> <sub><i>All art on profile (except 4 pixel art) by me (^ ⌄-⌄ ^)</i></sub></p>
-
+   <p align="center"> <sub><i>All art on profile (except 4 pixel art) by me (^ ⌄-⌄ ^)‎</i></sub>  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  </p>
    </br>
 
 
