@@ -4,16 +4,16 @@
 <br/>
 
 <p align="center"><em><b> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎</b></em> </p> <img src="https://github.com/vampiretestacc/vampiretestacc/blob/96a83ca594284a42a157225a32ee7c4d47b1f683/ezgif-82e90fa44b4db018.webp" width="150" align="right" style="margin-right: 20px;" /> 
-<p align="center"><em><b> isaac . rox ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎</b></em> </p> 
+<p align="center"><em><b> isaac . rox</b></em> </p> 
 
 
 <p> 
-   <p align="center"> <b>18</b> . <ins>he/him</ins> . ro/eng ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎  ‎  ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎  </p> 
-    <p align="center"> <b>basic DNI</b> + under 15 dni  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎  ‎  ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎  </p> 
+   <p align="center"> <b>18</b> . <ins>he/him</ins> . ro/eng </p> 
+    <p align="center"> <b>basic DNI</b> + under 15 dni</p> 
     
-  <p align="center"><a href="https://casinogutz.atabook.org/">sign ata (^ ⌄-⌄ ^)</a>  ‎ ‎  ‎ ‎ ‎‎ ‎‎ ‎ ‎   ‎  ‎ ‎  ‎ ‎‎ ‎ ‎    ‎  ‎ ‎  ‎ ‎‎ ‎ ‎   ‎  ‎ ‎‎ ‎ ‎    ‎ ‎  ‎ ‎‎ ‎ ‎    ‎  ‎ ‎ ‎  ‎ ‎  ‎ ‎‎ ‎ ‎    ‎  ‎ ‎  ‎ ‎‎ ‎ ‎   ‎  ‎ ‎‎ ‎ ‎    ‎ ‎  ‎ ‎‎ ‎ ‎    ‎ ‎  ‎ ‎‎ ‎ ‎   ‎  ‎ ‎‎ ‎ ‎   </p>
+  <p align="center"><a href="https://casinogutz.atabook.org/">sign ata (^ ⌄-⌄ ^)</a></p>
   <br/>
-   <p> <sub><i>‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎   ‎ ‎ ‎ All art on profile (except 4 pixel art) by me (^ ⌄-⌄ ^)</i></sub>  </p>
+   <p align="center"> <sub><i>All art on profile (except 4 pixel art) by me (^ ⌄-⌄ ^)</i></sub></p>
 
    </br>
 
@@ -39,3 +39,4 @@
 <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X" />
    <a href="https://www.tumblr.com/blog/casinogutz" target="_blank">
 <img src="https://img.shields.io/badge/Tumblr-black?style=for-the-badge&logo=Tumblr" />
+   </p>
