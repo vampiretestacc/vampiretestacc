@@ -9,23 +9,34 @@
 
 <p> 
    <p align="center"> <b>18</b> . <ins>he/him</ins> . ro/eng ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎  ‎  ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎  </p> 
-   <p align="center"> [sign ata (^ ⌄-⌄ ^)](https://example.com)
+    <p align="center"> <b>basic DNI</b> + under 15 dni  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎  ‎  ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎  </p> 
+    
+  <p align="center"><a href="https://casinogutz.atabook.org/">sign ata (^ ⌄-⌄ ^)</a>  ‎ ‎  ‎ ‎ ‎‎ ‎‎ ‎ ‎   ‎  ‎ ‎  ‎ ‎‎ ‎ ‎    ‎  ‎ ‎  ‎ ‎‎ ‎ ‎   ‎  ‎ ‎‎ ‎ ‎    ‎ ‎  ‎ ‎‎ ‎ ‎    ‎  ‎ ‎ ‎  ‎ ‎  ‎ ‎‎ ‎ ‎    ‎  ‎ ‎  ‎ ‎‎ ‎ ‎   ‎  ‎ ‎‎ ‎ ‎    ‎ ‎  ‎ ‎‎ ‎ ‎    ‎ ‎  ‎ ‎‎ ‎ ‎   ‎  ‎ ‎‎ ‎ ‎   </p>
+  <br/>
    <p> <sub><i>‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎   ‎ ‎ ‎ All art on profile (except 4 pixel art) by me (^ ⌄-⌄ ^)</i></sub>  </p>
 
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
 
 ## 
 <img src="https://github.com/vampiretestacc/vampiretestacc/blob/975ec4ba8837d10537f9b1b9fb35ad1b51d7cd67/Untitled398_20260711045613.png" width="250" align="left" style="margin-right: 20px;" />
 <br/>
 
 <img src="https://github.com/vampiretestacc/vampiretestacc/blob/975ec4ba8837d10537f9b1b9fb35ad1b51d7cd67/Untitled396_20260711045503.png" width="350" align="right" style="margin-right: 20px;" />
-
+ <p align="center"> <b>Interests</b> :  Hetalia , roblox (phighting, DoD, CoS, Blocktales, Regretevator etc.) , Genshin , HSR , Deltarune , CRK , Brawl Stars etc . </p> 
 <br/>
+<p align="center"> <b>Music</b> :  Pierce The Veil , And One , She Wants Revenge , Metallica , Scorpions , Deftones , MCR , MSI etc . </p> 
+
+</br>
+
+</br>
+
+</br>
+
+
+##
+<P align="center"> 
+   <a href="https://es.pinterest.com/Glorffindel/_pins/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />    
+<a href="https://ro.pinterest.com/casinogutz/_pins/" target="_blank">     
+<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X" />
+   <a href="https://www.tumblr.com/blog/casinogutz" target="_blank">
+<img src="https://img.shields.io/badge/Tumblr-black?style=for-the-badge&logo=Tumblr" />
