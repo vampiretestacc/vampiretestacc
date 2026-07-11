@@ -31,9 +31,6 @@
 
 </br>
 
-</br>
-
-
 ##
 <P align="center"> 
    <a href="https://es.pinterest.com/Glorffindel/_pins/" target="_blank">
